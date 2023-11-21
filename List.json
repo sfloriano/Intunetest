@@ -11,17 +11,6 @@
 			"Name": "7-Zip ??.??",
 			"Version": "*",
 			"Type": "msi"
-		},
-		{
-			"Name": "Xnview *",
-			"Version": "*",
-			"Type": "programs",
-			"SilentArg": "/Silent"
-		},
-		{
-			"Name": "Xnview ??.??",
-			"Version": "*",
-			"Type": "msi"
 		}
 	]
 }
