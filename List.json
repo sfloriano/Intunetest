@@ -1,16 +1,27 @@
 {
 	"LastUpdate": "2023-09-27 15:35:50Z",
-	"Application": [{
-		"Name": "7-Zip *",
-		"Version": "*",
-		"Type": "programs",
-		"SilentArg": "/S"
-	},{
-		"Name": "7-Zip ??.??",
-		"Version": "*",
-		"Type": "msi"
-	},{
-
-	}
-]
+	"Application": [
+		{
+			"Name": "7-Zip *",
+			"Version": "*",
+			"Type": "programs",
+			"SilentArg": "/S"
+		},
+		{
+			"Name": "7-Zip ??.??",
+			"Version": "*",
+			"Type": "msi"
+		},
+		{
+			"Name": "Xnview *",
+			"Version": "*",
+			"Type": "programs",
+			"SilentArg": "/S"
+		},
+		{
+			"Name": "Xnview ??.??",
+			"Version": "*",
+			"Type": "msi"
+		}
+	]
 }
