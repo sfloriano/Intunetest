@@ -16,7 +16,7 @@
 			"Name": "Xnview *",
 			"Version": "*",
 			"Type": "programs",
-			"SilentArg": "/S"
+			"SilentArg": "/Silent"
 		},
 		{
 			"Name": "Xnview ??.??",
